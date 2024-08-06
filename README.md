@@ -92,6 +92,8 @@ Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Contact
 Created by [@UmaHyndavi] - feel free to contact me!
+## Nbviewer link
+https://nbviewer.org/github/UmaHyndavi/Melanoma_Detection_Assignment/blob/master/Uma_Hyndavi_nn.ipynb
 
 
 <!-- Optional -->
